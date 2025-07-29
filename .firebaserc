@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "g2g-test-firebase",
+    "staging": "g2g-test-firebase"
+  },
+  "targets": {},
+  "etags": {}
+}
