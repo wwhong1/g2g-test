@@ -41,9 +41,12 @@ You can verify your installed versions by running:
 node -v
 npm -v
 ```
+
 📚 Learn More
 Vue 3 + TypeScript Guide
+https://vuejs.org/guide/typescript/overview.html#project-setup
 
 Vite Documentation
+https://vite.dev/
 
 Feel free to explore and contribute to the project. Happy coding!
